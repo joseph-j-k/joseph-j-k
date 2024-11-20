@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" style="width: 100%; height: auto;" />
+    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="GIF" style="width: 100%; height: auto;"  style="padding:200px";/>
   </p>
   
   <img
