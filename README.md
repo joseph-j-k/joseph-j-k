@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
+    <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://www.canva.com/design/DAGXCnVFTIE/uITflyOaY-Y1hKW2N4l7Ww/edit?utm_content=DAGXCnVFTIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" height="200" />
   </p>
   
   <img
