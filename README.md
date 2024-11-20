@@ -64,6 +64,7 @@ Welcome to my GitHub haven, where passion meets code and curiosity fuels learnin
 joseph-francis/joseph-francis is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the "Edit" button above to make changes to this file and personalize your GitHub profile even more.
 --->
+</div>
 
 🐍 Watch the Snake Game!
 <div align="center"> <img src="https://github.com/joseph-francis/joseph-francis/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </div>
