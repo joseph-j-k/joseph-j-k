@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://www.canva.com/design/DAGXCnVFTIE/6OHxnaM5Zq9Pn6_6rJmibA/view?utm_content=DAGXCnVFTIE&utm_campaign=designshare&utm_medium=link&utm_source=editor" height="200" />
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </p>
   
   <img
