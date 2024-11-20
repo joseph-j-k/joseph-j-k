@@ -264,23 +264,14 @@
 </p>
 
 <p align="center">
-name: Snake Game
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs the snake action once every day at midnight UTC
-  workflow_dispatch:  # Allows you to trigger manually via GitHub UI
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: joseph-j-k
-        uses: actions/checkout@v2
-
-      - name: Run Snake Game Action
-        uses: Elanza-48/github-contribution-grid-snake@main
-
+  <p align="center" style="text-align: center; padding: 20px; background-color: #f0f8ff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" 
+       alt="example" 
+       style="max-width: 100%; height: auto; border-radius: 10px; transition: transform 0.3s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)';" 
+       onmouseout="this.style.transform='scale(1)';" />
+</p>
+<br/>
 
 </p>
 <br/>
