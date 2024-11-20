@@ -264,12 +264,12 @@
 </p>
 
 <p align="center">
-  name: Snake Game
+name: Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs the snake action once every day.
-  workflow_dispatch:  # Allows you to trigger manually as well.
+    - cron: "0 0 * * *"  # Runs the snake action once every day at midnight UTC
+  workflow_dispatch:  # Allows you to trigger manually via GitHub UI
 
 jobs:
   build:
@@ -280,6 +280,7 @@ jobs:
 
       - name: Run Snake Game Action
         uses: Elanza-48/github-contribution-grid-snake@main
+
 
 </p>
 <br/>
