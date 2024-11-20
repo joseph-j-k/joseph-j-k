@@ -1,10 +1,1 @@
-# for CI testing
-services:
-  waka-readme:
-    env_file:
-      - .env.template
-    build:
-      context: .
-      dockerfile: containerfile
-    image: waka-readme:testing
-    container_name: WakaReadmeTesting
+
