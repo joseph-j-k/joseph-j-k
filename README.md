@@ -275,7 +275,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: joseph-j-k
         uses: actions/checkout@v2
 
       - name: Run Snake Game Action
