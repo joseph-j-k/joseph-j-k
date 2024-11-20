@@ -263,20 +263,24 @@
   </a>
 </p>
 
-----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=suraj-k-s&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/suraj-k-s)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=suraj-k-s&theme=material-palenight)](https://github.com/suraj-k-s)
-</div>
-
-----
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  name: Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs the snake action once every day.
+  workflow_dispatch:  # Allows you to trigger manually as well.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Snake Game Action
+        uses: Elanza-48/github-contribution-grid-snake@main
+
 </p>
 <br/>
 
