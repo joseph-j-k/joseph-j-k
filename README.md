@@ -67,5 +67,4 @@ You can click the "Edit" button above to make changes to this file and personali
 </div>
 
 🐍 Watch the Snake Game!
-<div align="center"> <img src="https://github.com/joseph-francis/joseph-francis/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" /> </div>
-<div align="center"> <i>Let's craft brilliance through code! ✨</i> </div>
+
