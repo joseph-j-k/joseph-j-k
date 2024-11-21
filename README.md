@@ -11,12 +11,7 @@
  
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-  <picture> <img align="right"
-      src="<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />>
-  </picture>
+## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **About me**
 
   <br>
 
