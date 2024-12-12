@@ -25,9 +25,7 @@
   - Add Your Username - git config --global user.name "joseph-j-k"
     
   ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **Fervor**
- <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-    
+  
    **i love 💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
    This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
