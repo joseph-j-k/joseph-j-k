@@ -25,8 +25,9 @@
   - Add Your Email - git config --global user.email "josephfrancizz444@gmail.com"
   - Add Your Username - git config --global user.name "joseph-j-k"
     
-  ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **Fervor**
+  ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> 
   
+  **Fervor**
    **i love 💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
    This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
