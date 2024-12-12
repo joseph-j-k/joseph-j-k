@@ -13,6 +13,7 @@
 	
 ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **About me**
  This is the place where I opensource stuff and break things 🤣
+ <br>
  🔭  I’m currently working on something cool 😉
   <br>
   - A passionate Self-taught Full Stack developer
