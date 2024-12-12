@@ -12,7 +12,7 @@
 <br>
 	
 ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **About me**
-<br><br>
+<br>
   - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
   - Currently learning New Technology by Self
