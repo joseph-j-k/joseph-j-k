@@ -15,6 +15,7 @@
  This is the place where I opensource stuff and break things 🤣
  <br>
  🔭  I’m currently working on something cool 😉
+ 🌱  I’m currently learning React and its application
   <br>
   - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
