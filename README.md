@@ -25,7 +25,7 @@
   - Add Your Username - git config --global user.name "joseph-j-k"
   
    <br><br>
-   **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+   **i love 💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
    This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
    - 🌱 I’m currently learning React and its application
