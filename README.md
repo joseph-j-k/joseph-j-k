@@ -14,7 +14,8 @@
 ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **About me**
 
   <br>
-
+  This is the place where I opensource stuff and break things 🤣
+  🔭  I’m currently working on something cool 😉
   - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
   - Currently learning New Technology by Self
