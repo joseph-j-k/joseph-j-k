@@ -12,7 +12,6 @@
 <br>
 	
 ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> **About me**
- This is the place where I opensource stuff and break things 🤣
 <br>
   - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
@@ -22,10 +21,11 @@
   - Add Your Email - git config --global user.email "josephfrancizz444@gmail.com"
   - Add Your Username - git config --global user.name "joseph-j-k"
 
-  <br><br>
+   This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
    - 🌱 I’m currently learning React and its application
 
+  <br><br>
   <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
