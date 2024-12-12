@@ -3,8 +3,8 @@
   </p>
   
 
-<div align="center" margin-top="20%">
-<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" height="5%"></a>
+<div align="center">
+<a margin-top="20%"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
     <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Joseph+Francis;Full+Stack+Developer"
         alt="Typing SVG" /></a>
