@@ -2,8 +2,8 @@
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="GIF" style="width: auto; height: auto;"/>
   </p>
   
-<div align="center" >
 	<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" style="margin-top:50px;"></a>
+<div align="center" >
     <a href="https://git.io/typing-svg"><img
         src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=5DF700&width=435&lines=Hello+There+%2C+Nice+To+See+You;I'm+Joseph+Francis;Full+Stack+Developer"
         alt="Typing SVG" /></a>
