@@ -20,7 +20,8 @@
   - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://surajks.com)
   - Add Your Email - git config --global user.email "josephfrancizz444@gmail.com"
   - Add Your Username - git config --global user.name "joseph-j-k"
-   <br>
+  
+   <br><br>
    This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
    - 🌱 I’m currently learning React and its application
