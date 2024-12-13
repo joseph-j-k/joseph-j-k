@@ -30,8 +30,8 @@
   **Fervor**
   
    **i love 💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+   is the place where I opensource stuff and break things 🤣
    
-   This is the place where I opensource stuff and break things 🤣
    - 🔭 I’m currently working on something cool 😉
    - 🌱 I’m currently learning React and its application
    - 💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
