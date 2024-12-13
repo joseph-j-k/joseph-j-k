@@ -29,8 +29,8 @@
   
   **Fervor**
   
-   **i love  💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and&nbsp;&nbsp;unicorns&nbsp;&nbsp;**&nbsp;&nbsp;![](unicorn.gif)
-   is the place where I opensource stuff and break things 🤣
+   **i love  💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**&nbsp;&nbsp;and&nbsp;&nbsp;unicorns&nbsp;&nbsp;**&nbsp;&nbsp;![](unicorn.gif)
+   is the place where I opensource stuff and break things ever🤣
    
    - 🔭 I’m currently working on something cool 😉
    - 🌱 I’m currently learning React and its application
