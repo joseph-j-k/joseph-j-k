@@ -14,7 +14,7 @@
 
 ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture>
 
-<div align="center">
+<div align="right">
 	
   [![Profile Views](https://visitcount.itsvg.in/api?id=joseph-j-k&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
   
