@@ -283,3 +283,32 @@
 	
 </p>
 
+## 🦾 Contributions:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    ![Snake animation](https://github.com/joseph-j-k/joseph-j-k/blob/output/github-contribution-grid-snake.svg)
+  />
+</picture>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joseph-j-k&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=joseph-j-k&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=joseph-j-k&icon=2&color=3)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joseph-j-k)
+
+
