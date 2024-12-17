@@ -27,7 +27,9 @@
     
   ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> 
   
-  **Fervor**
+  **Fervor**   
+  ---
+[![](https://visitcount.itsvg.in/api?id=joseph-j-k&icon=2&color=3)](https://visitcount.itsvg.in)
   
    **i love  💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**&nbsp;&nbsp;and&nbsp;&nbsp;unicorns&nbsp;&nbsp;**&nbsp;&nbsp;![](unicorn.gif)
    is the place where I opensource stuff and break things ever🤣
@@ -304,9 +306,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=joseph-j-k&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=joseph-j-k&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joseph-j-k)
