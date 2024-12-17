@@ -73,7 +73,7 @@
 
 <div align="center">
   <img 
-       src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" 
+       src="https://cdn.pixabay.com/photo/2018/05/12/20/32/galaxy-3391015_1280.jpg" 
        alt="GitHub Octocat Drinking Coffee" 
        height="200" 
        style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
