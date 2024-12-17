@@ -1,4 +1,4 @@
- <p align="center">
+ <p align="right">
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="GIF" style="width: auto; height: auto;"/>
   </p>
   
