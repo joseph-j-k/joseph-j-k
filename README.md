@@ -71,8 +71,18 @@
 
 <p align="center">
 
-  
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+<div align="center">
+  <img 
+       src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" 
+       alt="GitHub Octocat Drinking Coffee" 
+       height="200" 
+       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+  />
+  <p style="font-size: 16px; font-weight: bold; margin-top: 10px;">
+     ☕ Take a break and grab some coffee with the GitHub Octocat! 🚀
+  </p>
+</div>
+
 
 </p>
 
