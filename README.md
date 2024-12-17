@@ -28,8 +28,10 @@
   ## <picture><img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = 50px></picture> 
   
   **Fervor**   
-  ---
-[![](https://visitcount.itsvg.in/api?id=joseph-j-k&icon=2&color=3)](https://visitcount.itsvg.in)
+ ---
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=joseph-j-k&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
   
    **i love  💖 code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**&nbsp;&nbsp;and&nbsp;&nbsp;unicorns&nbsp;&nbsp;**&nbsp;&nbsp;![](unicorn.gif)
    is the place where I opensource stuff and break things ever🤣
