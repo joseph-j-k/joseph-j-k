@@ -16,7 +16,7 @@
 
 <div align="right">
 	
-  [![Profile Views](https://visitcount.itsvg.in/api?id=joseph-j-k&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-francis&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-francis" /> </p>
   
 </div>
 
