@@ -27,7 +27,7 @@
   - A passionate Self-taught Full Stack developer
   - Playing CTF's at spare time
   - Currently learning New Technology by Self
-  - Personal website [link](https://surajks.com)
+  - Personal website [link](https://lucky-twilight-de02f4.netlify.app/)
   - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://surajks.com)
   - Add Your Email - git config --global user.email "josephfrancizz444@gmail.com"
   - Add Your Username - git config --global user.name "joseph-j-k"
