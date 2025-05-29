@@ -28,7 +28,7 @@
   - Playing CTF's at spare time
   - Currently learning New Technology by Self
   - Personal website [link](https://lucky-twilight-de02f4.netlify.app/)
-  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://surajks.com)
+  - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/u/3/folders/1o1l_492p78E_i8Km31lnuVpArRg9nk7E)
   - Add Your Email - git config --global user.email "josephfrancizz444@gmail.com"
   - Add Your Username - git config --global user.name "joseph-j-k"
     
